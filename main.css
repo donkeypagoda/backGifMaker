@@ -1,4 +1,4 @@
-html {
+/*html {
   background: linear-gradient(45deg, #12d919, #3112d9);
   background-size: 400% 400%;
 
@@ -23,8 +23,8 @@ html {
     0%{background-position:0% 50%}
     50%{background-position:100% 50%}
     100%{background-position:0% 50%}
-}
-/*html  {
+}*/
+html  {
   background-image: url('fuck.gif');
   background-size: cover;
-}*/
+}
